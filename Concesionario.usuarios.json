@@ -1,0 +1,110 @@
+[{
+  "_id": {
+    "$oid": "68de5e69d1c28e3b6985a64e"
+  },
+  "nombre": "Juan",
+  "apellidos": "Pérez",
+  "dni": "12345678A",
+  "telefono": "88454555",
+  "email": "juan@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "68de6090d1c28e3b6985a651"
+  },
+  "nombre": "Julian",
+  "apellidos": "Rodriguez",
+  "dni": "12345678B",
+  "telefono": "88454554",
+  "email": "julian@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "68de6090d1c28e3b6985a652"
+  },
+  "nombre": "Laura",
+  "apellidos": "Martinez",
+  "dni": "87654321C",
+  "telefono": "611223344",
+  "email": "laura.martinez@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "68de6090d1c28e3b6985a653"
+  },
+  "nombre": "Carlos",
+  "apellidos": "Gomez",
+  "dni": "45678912D",
+  "telefono": "722334455",
+  "email": "carlos.gomez@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "68de6090d1c28e3b6985a654"
+  },
+  "nombre": "Ana",
+  "apellidos": "Fernandez",
+  "dni": "98765432E",
+  "telefono": "633445566",
+  "email": "ana.fernandez@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "68de6090d1c28e3b6985a655"
+  },
+  "nombre": "David",
+  "apellidos": "Lopez",
+  "dni": "11223344F",
+  "telefono": "644556677",
+  "email": "david.lopez@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "68de6090d1c28e3b6985a656"
+  },
+  "nombre": "Maria",
+  "apellidos": "Sanchez",
+  "dni": "22334455G",
+  "telefono": "655667788",
+  "email": "maria.sanchez@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "68de6090d1c28e3b6985a657"
+  },
+  "nombre": "Pedro",
+  "apellidos": "Diaz",
+  "dni": "33445566H",
+  "telefono": "666778899",
+  "email": "pedro.diaz@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "68de6090d1c28e3b6985a658"
+  },
+  "nombre": "Sofia",
+  "apellidos": "Ruiz",
+  "dni": "44556677J",
+  "telefono": "677889900",
+  "email": "sofia.ruiz@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "68de6090d1c28e3b6985a659"
+  },
+  "nombre": "Javier",
+  "apellidos": "Morales",
+  "dni": "55667788K",
+  "telefono": "688990011",
+  "email": "javier.morales@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "68de6090d1c28e3b6985a65a"
+  },
+  "nombre": "Elena",
+  "apellidos": "Castro",
+  "dni": "66778899L",
+  "telefono": "699100122",
+  "email": "elena.castro@gmail.com"
+}]

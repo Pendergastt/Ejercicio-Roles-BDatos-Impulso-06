@@ -1,0 +1,140 @@
+[{
+  "_id": {
+    "$oid": "68de6090d1c28e3b6985b651"
+  },
+  "marca": "Toyota",
+  "modelo": "Corolla",
+  "matricula": "0221FRZ",
+  "plazas": "5",
+  "precio_dia": 45,
+  "descuento": {
+    "verano": 10,
+    "invierno": 20
+  }
+},
+{
+  "_id": {
+    "$oid": "68de6090d1c28e3b6985b652"
+  },
+  "marca": "Volkswagen",
+  "modelo": "Golf",
+  "matricula": "1332HJK",
+  "plazas": "5",
+  "precio_dia": 50,
+  "descuento": {
+    "verano": 10,
+    "invierno": 20
+  }
+},
+{
+  "_id": {
+    "$oid": "68de6090d1c28e3b6985b653"
+  },
+  "marca": "Ford",
+  "modelo": "Focus",
+  "matricula": "2443LMN",
+  "plazas": "5",
+  "precio_dia": 42,
+  "descuento": {
+    "verano": 10,
+    "invierno": 20
+  }
+},
+{
+  "_id": {
+    "$oid": "68de6090d1c28e3b6985b654"
+  },
+  "marca": "Seat",
+  "modelo": "Ibiza",
+  "matricula": "3554BCD",
+  "plazas": "5",
+  "precio_dia": 38,
+  "descuento": {
+    "verano": 10,
+    "invierno": 20
+  }
+},
+{
+  "_id": {
+    "$oid": "68de6090d1c28e3b6985b655"
+  },
+  "marca": "Peugeot",
+  "modelo": "308",
+  "matricula": "4665TRS",
+  "plazas": "5",
+  "precio_dia": 40,
+  "descuento": {
+    "verano": 10,
+    "invierno": 20
+  }
+},
+{
+  "_id": {
+    "$oid": "68de6090d1c28e3b6985b656"
+  },
+  "marca": "Renault",
+  "modelo": "Clio",
+  "matricula": "5776QWE",
+  "plazas": "5",
+  "precio_dia": 36,
+  "descuento": {
+    "verano": 10,
+    "invierno": 20
+  }
+},
+{
+  "_id": {
+    "$oid": "68de6090d1c28e3b6985b657"
+  },
+  "marca": "BMW",
+  "modelo": "Serie 3",
+  "matricula": "6887ASD",
+  "plazas": "5",
+  "precio_dia": 70,
+  "descuento": {
+    "verano": 10,
+    "invierno": 20
+  }
+},
+{
+  "_id": {
+    "$oid": "68de6090d1c28e3b6985b658"
+  },
+  "marca": "Mercedes",
+  "modelo": "Clase A",
+  "matricula": "7998FGH",
+  "plazas": "5",
+  "precio_dia": 75,
+  "descuento": {
+    "verano": 10,
+    "invierno": 20
+  }
+},
+{
+  "_id": {
+    "$oid": "68de6090d1c28e3b6985b659"
+  },
+  "marca": "Audi",
+  "modelo": "A3",
+  "matricula": "8009JKL",
+  "plazas": "5",
+  "precio_dia": 68,
+  "descuento": {
+    "verano": 10,
+    "invierno": 20
+  }
+},
+{
+  "_id": {
+    "$oid": "68de6090d1c28e3b6985b65a"
+  },
+  "marca": "Kia",
+  "modelo": "Sportage",
+  "matricula": "9110VBN",
+  "plazas": "5",
+  "precio_dia": 55,
+  "descuento": {
+    "verano": 10,
+    "invierno": 20
+  }
+}]

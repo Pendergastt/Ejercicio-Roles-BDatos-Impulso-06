@@ -1,0 +1,150 @@
+[{
+  "_id": {
+    "$oid": "68dec5e9909ca9ba683c5e90"
+  },
+  "id_usuario": {
+    "$oid": "68de5e69d1c28e3b6985a64e"
+  },
+  "id_coche": {
+    "$oid": "68de6090d1c28e3b6985b651"
+  },
+  "fecha_inicio_alquiler": "2025-06-03",
+  "fecha_fin_alquiler": "2025-06-13",
+  "promocion": "verano",
+  "precio_Total": 405
+},
+{
+  "_id": {
+    "$oid": "68dec5e9909ca9ba683c5e91"
+  },
+  "id_usuario": {
+    "$oid": "68de6090d1c28e3b6985a651"
+  },
+  "id_coche": {
+    "$oid": "68de6090d1c28e3b6985b652"
+  },
+  "fecha_inicio_alquiler": "2025-12-01",
+  "fecha_fin_alquiler": "2025-12-09",
+  "promocion": "invierno",
+  "precio_Total": 320
+},
+{
+  "_id": {
+    "$oid": "68dec5e9909ca9ba683c5e92"
+  },
+  "id_usuario": {
+    "$oid": "68de6090d1c28e3b6985a652"
+  },
+  "id_coche": {
+    "$oid": "68de6090d1c28e3b6985b653"
+  },
+  "fecha_inicio_alquiler": "2025-07-15",
+  "fecha_fin_alquiler": "2025-07-22",
+  "promocion": "verano",
+  "precio_Total": 265
+},
+{
+  "_id": {
+    "$oid": "68dec5e9909ca9ba683c5e93"
+  },
+  "id_usuario": {
+    "$oid": "68de6090d1c28e3b6985a653"
+  },
+  "id_coche": {
+    "$oid": "68de6090d1c28e3b6985b654"
+  },
+  "fecha_inicio_alquiler": "2025-02-18",
+  "fecha_fin_alquiler": "2025-02-25",
+  "promocion": "invierno",
+  "precio_Total": 213
+},
+{
+  "_id": {
+    "$oid": "68dec5e9909ca9ba683c5e94"
+  },
+  "id_usuario": {
+    "$oid": "68de6090d1c28e3b6985a654"
+  },
+  "id_coche": {
+    "$oid": "68de6090d1c28e3b6985b655"
+  },
+  "fecha_inicio_alquiler": "2025-08-05",
+  "fecha_fin_alquiler": "2025-08-12",
+  "promocion": "verano",
+  "precio_Total": 252
+},
+{
+  "_id": {
+    "$oid": "68dec5e9909ca9ba683c5e95"
+  },
+  "id_usuario": {
+    "$oid": "68de6090d1c28e3b6985a655"
+  },
+  "id_coche": {
+    "$oid": "68de6090d1c28e3b6985b656"
+  },
+  "fecha_inicio_alquiler": "2025-11-02",
+  "fecha_fin_alquiler": "2025-11-08",
+  "promocion": "invierno",
+  "precio_Total": 173
+},
+{
+  "_id": {
+    "$oid": "68dec5e9909ca9ba683c5e96"
+  },
+  "id_usuario": {
+    "$oid": "68de6090d1c28e3b6985a656"
+  },
+  "id_coche": {
+    "$oid": "68de6090d1c28e3b6985b657"
+  },
+  "fecha_inicio_alquiler": "2025-07-01",
+  "fecha_fin_alquiler": "2025-07-10",
+  "promocion": "verano",
+  "precio_Total": 567
+},
+{
+  "_id": {
+    "$oid": "68dec5e9909ca9ba683c5e97"
+  },
+  "id_usuario": {
+    "$oid": "68de6090d1c28e3b6985a657"
+  },
+  "id_coche": {
+    "$oid": "68de6090d1c28e3b6985b658"
+  },
+  "fecha_inicio_alquiler": "2025-01-12",
+  "fecha_fin_alquiler": "2025-01-22",
+  "promocion": "invierno",
+  "precio_Total": 600
+},
+{
+  "_id": {
+    "$oid": "68dec5e9909ca9ba683c5e98"
+  },
+  "id_usuario": {
+    "$oid": "68de6090d1c28e3b6985a658"
+  },
+  "id_coche": {
+    "$oid": "68de6090d1c28e3b6985b659"
+  },
+  "fecha_inicio_alquiler": "2025-09-01",
+  "fecha_fin_alquiler": "2025-09-10",
+  "promocion": "verano",
+  "precio_Total": 550
+},
+{
+  "_id": {
+    "$oid": "68dec5e9909ca9ba683c5e99"
+  },
+  "id_usuario": {
+    "$oid": "68de6090d1c28e3b6985a659"
+  },
+  "id_coche": {
+    "$oid": "68de6090d1c28e3b6985b65a"
+  },
+  "fecha_inicio_alquiler": "2025-03-13",
+  "fecha_fin_alquiler": "2025-03-21",
+  "promocion": "invierno",
+  "precio_Total": 264
+}]
